@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\cslt2\b17\bin\Debug\b17.exe
+C:\Users\nguye\OneDrive\cslt2\b17\bin\Debug\b17.pdb
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.frmMove.resources
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.exe
+C:\Users\nguye\OneDrive\cslt2\b17\obj\Debug\b17.pdb

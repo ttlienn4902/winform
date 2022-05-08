@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\cslt2\b15\bin\Debug\b15.exe
+C:\Users\nguye\OneDrive\cslt2\b15\bin\Debug\b15.pdb
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.frmMaunen.resources
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.exe
+C:\Users\nguye\OneDrive\cslt2\b15\obj\Debug\b15.pdb
