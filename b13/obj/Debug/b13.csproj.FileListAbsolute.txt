@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.frmCheckListBox.resources
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\b13\bin\Debug\b13.exe
+C:\Users\nguye\OneDrive\cslt2\b13\bin\Debug\b13.pdb
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.exe
+C:\Users\nguye\OneDrive\cslt2\b13\obj\Debug\b13.pdb

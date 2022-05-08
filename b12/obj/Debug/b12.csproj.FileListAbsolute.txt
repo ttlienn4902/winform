@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\cslt2\b12\bin\Debug\b12.exe
+C:\Users\nguye\OneDrive\cslt2\b12\bin\Debug\b12.pdb
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.Form1.resources
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.exe
+C:\Users\nguye\OneDrive\cslt2\b12\obj\Debug\b12.pdb
